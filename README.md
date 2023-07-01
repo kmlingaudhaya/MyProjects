@@ -45,3 +45,5 @@ The webpage is designed using HTML and CSS, specifically utilizing the CSS Flexb
 <img width="952" alt="Screenshot 2023-07-01 145615" src="https://github.com/kmlingaudhaya/MyProjects/assets/134930329/17e2b35c-a534-4b10-b818-f17d0c2852ea">
 
 
+## Preview
+<img width="960" alt="Screenshot 2023-07-01 224944" src="https://github.com/kmlingaudhaya/MyProjects/assets/134930329/4744c7c5-3724-4dce-a393-d1b4875168dd">
