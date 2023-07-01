@@ -59,3 +59,5 @@ This is a simple HTML form with CSS effects that is centered on the page. The fo
 - The form has a width of 300px and is enclosed in a rounded container with a subtle box shadow effect.
 - The email and password fields have a width of 90% and are styled with a border, padding, and border-radius.
 - The submit button has a green background color, white text color, and a hover effect that changes the background color.
+
+<img width="958" alt="Screenshot 2023-07-01 225803" src="https://github.com/kmlingaudhaya/MyProjects/assets/134930329/3196a5d0-f5be-4926-b3a1-236d29597ed5">
