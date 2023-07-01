@@ -23,3 +23,25 @@ This is the CSS stylesheet for the My Resume HTML template. It contains styles f
    ```html
    <link rel="stylesheet" type="text/css" href="myResume.css">
 
+
+<hr>
+
+# Course Catalogue
+
+This is a sample webpage for a course catalogue, showcasing different programming frameworks.
+
+## Description
+
+The webpage is designed using HTML and CSS, specifically utilizing the CSS Flexbox layout model. It demonstrates a responsive layout with three columns, each representing a different programming framework. The frameworks showcased are Angular, React, and Vue.
+
+## Features
+
+- Responsive layout using CSS Flexbox.
+- Each column includes an image, framework title, and description.
+- Hover effects for the header and columns.
+- Contact information in the footer.
+
+## Preview
+<img width="952" alt="Screenshot 2023-07-01 145615" src="https://github.com/kmlingaudhaya/MyProjects/assets/134930329/17e2b35c-a534-4b10-b818-f17d0c2852ea">
+
+
