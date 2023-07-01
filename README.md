@@ -12,3 +12,14 @@
 - To update the social icons, replace the `src` attributes of the `<img>` tags inside the `<div class="social-icons">` section.
 - To modify the name and description in the right column, edit the respective `<h2>` and `<p>` tags inside the `<div class="description">` section.
 
+# My Resume CSS Styles
+
+This is the CSS stylesheet for the My Resume HTML template. It contains styles for the layout, header, navigation links, contact button, container, left and right columns, social media icons, and more.
+
+## Usage
+
+1. Create an HTML file and link this CSS stylesheet to it using the `<link>` tag. Place the CSS file in the same directory as your HTML file.
+
+   ```html
+   <link rel="stylesheet" type="text/css" href="myResume.css">
+
