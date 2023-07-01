@@ -61,6 +61,7 @@ This is a simple HTML form with CSS effects that is centered on the page. The fo
 - The submit button has a green background color, white text color, and a hover effect that changes the background color.
 
 <hr>
+
 # IIITDM KANCHEEPURAM Student Registration Form
 
 This is a student registration form for IIITDM Kancheepuram. It captures basic information of the student such as name, student number, year level, degree program, and email address.
