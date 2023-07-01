@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Centered Form with CSS Effects</title>
+    <style>
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            background-color: #f4f4f4;
+        }
+        
+        form {
+            width: 300px;
+            background-color: #fff;
+            border-radius: 25px;
+            padding: 20px;
+            box-shadow: 0 2px 5px rgba(241, 13, 13, 0.559);
+        }
+        
+        form label,
+        form input {
+            display: block;
+            margin-bottom: 10px;
+        }
+        form input[type="email"],
+        form input[type="password"] {
+            width: 90%;
+            padding: 10px;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+        }
+        
+        form input[type="submit"] {
+            background-color: #4CAF50;
+            color: #fff;
+            border: none;
+            padding: 10px 20px;
+            border-radius: 4px;
+            cursor: pointer;
+            transition: background-color 0.3s ease;
+        }
+        form input[type="submit"]:hover {
+            background-color: #45a049;
+        }
+    </style>
+</head>
+<body>
+    <form>
+        <label>Mail id:</label>
+        <input type="email"required>
+        
+        <label for="password">Password:</label>
+        <input type="password" id="password" name="password" placeholder="Enter your password" required>
+        
+        <input type="submit" value="Submit">
+    </form>
+</body>
+</html>
