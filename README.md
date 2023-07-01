@@ -52,3 +52,10 @@ This is a simple HTML form with CSS effects that is centered on the page. The fo
 
 ## Preview
 <img width="960" alt="Screenshot 2023-07-01 224944" src="https://github.com/kmlingaudhaya/MyProjects/assets/134930329/4744c7c5-3724-4dce-a393-d1b4875168dd">
+
+## Features
+
+- The form is centered vertically and horizontally on the page using flexbox.
+- The form has a width of 300px and is enclosed in a rounded container with a subtle box shadow effect.
+- The email and password fields have a width of 90% and are styled with a border, padding, and border-radius.
+- The submit button has a green background color, white text color, and a hover effect that changes the background color.
