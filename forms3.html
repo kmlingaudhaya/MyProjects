@@ -1,0 +1,114 @@
+<html>
+    <head>
+        <style>
+            
+            .static
+            {
+                position:fixed;
+                height: 130px;
+                width:125px;
+                background-color: rgb(255, 255, 255);
+            }
+
+            .absolute
+            {
+                position: absolute;
+                height:100px;
+                width:980px;
+                left:200px;
+                top:10px;
+                align-items:center;
+                background-color:rgb(175, 204, 204);
+            }
+            .absolute1
+            {
+                position: absolute;
+                height:50px;
+                width:500px;
+                top:201px;
+                left:390px;
+                background-color:hsla(0, 0%, 50%, 0.315);
+            }
+
+            .centered-form {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 50vh;
+        }
+
+            fieldset {
+            width: 800px;
+            background-color: #fff;
+            border-radius: 10px;
+            padding: 5px;
+            box-shadow: 0 2px 5px rgba(241, 13, 13, 0.559);
+        } 
+
+    
+
+            
+        </style>
+    </head>
+    <body>
+        <div class="static">
+            <img src="./assets/images/Insignia.png" style="width: 130px; height: 120px;">
+        </div>
+        <div class="absolute">
+            <h1 style="text-align: center;">IIITDM KANCHEEPURAM</h1>
+            <h3 style="text-align: center;">Melakottaiyur, Nellikuppam Rd, Near Kandigai, Off Vandalur-Kelambakkam Road, Chennai, Tamil Nadu 600127</h3>
+        </div>
+        <br><br><br><br><br><br><hr><br>
+        <h2 style="text-align: center;">STUDENT REGISTRATION FORM</h2>
+        <div class="absolute1">
+            <p style="text-align:center">Basic information</p>
+        </div>
+
+        <br><br><br>
+
+        <!-- form starrts -->
+        <div class="centered-form">
+        <fieldset>
+            <form>
+            <br>
+           <label>First name</label>
+           <input type="text" required>
+           <label>Middle Name</label>
+           <input type="text" required>
+           <label>Last name</label>
+           <input type="text" required>
+           <br><br><br>
+           
+           <label>Student Number</label>
+           <input type="text" required>
+           <label>Year level</label>
+           <select>
+            <option selected>select</option>
+            <option>1'st Year</option>
+            <option>2'nd Year</option>
+            <option>3'rd Year</option>
+            <option>4'th Year</option>
+            <option>5'th Year</option>
+           </select><br><br><br>
+
+           <label>Degree program</label>
+           <select>
+            <option selected>select</option>
+            <option>Smart manufacturing</option>
+            <option>Mechanical</option>
+            <option>Electronics and communication</option>
+            <option>Computer science</option>
+            <option>Computer science (AI)</option>
+           </select>
+
+           <label>Email address</label>
+           <input type="email" required>
+           <br><br>
+           <input type="submit" value="Submit">
+           <input type="reset" value="Reset">
+
+        </form>
+        </fieldset>
+        </div>
+    </body>
+</html>
