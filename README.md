@@ -67,3 +67,11 @@ This is a simple HTML form with CSS effects that is centered on the page. The fo
 This is a student registration form for IIITDM Kancheepuram. It captures basic information of the student such as name, student number, year level, degree program, and email address.
 
 <img width="958" alt="Screenshot 2023-07-01 225803" src="https://github.com/kmlingaudhaya/MyProjects/assets/134930329/3196a5d0-f5be-4926-b3a1-236d29597ed5">
+
+## Features
+
+- The form is centered vertically and horizontally on the page using flexbox.
+- The form has a width of 800px and is enclosed in a rounded container with a subtle box shadow effect.
+- The form captures basic information of the student, including their name, student number, year level, degree program, and email address.
+- The form includes input validation for required fields.
+- There are two buttons at the end of the form for submitting and resetting the form.
